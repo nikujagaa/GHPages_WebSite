@@ -16,7 +16,7 @@ permalink: /
 3.読書
 - 好きなもの
 柴犬  
-![柴犬](/GHPages_WebSite/assets/images/
+![柴犬](/GHPages_WebSite/assets/images/00a323d56c39e906bcb5f4e98579bea2.png)
 ---
 
 以下テンプレート
