@@ -15,7 +15,7 @@ permalink: /
 1.散歩  
 2.筋トレ  
 3.読書  
-- 好きなもの
+- 好きなもの  
 柴犬  
 ![柴犬](/GHPages_WebSite/assets/images/00a323d56c39e906bcb5f4e98579bea2.png)
 ---
