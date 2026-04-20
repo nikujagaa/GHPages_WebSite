@@ -1,4 +1,4 @@
-title: "🔰はじめてのWebサイト公開体験会🔰"
+title: "永田の自己紹介"
 
 lang: ja
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
@@ -25,7 +25,7 @@ defaults:
       path: ""
     values:
       header:
-        overlay_image: /assets/images/しば.png
+        overlay_image: /assets/images/しばく.png
         overlay_filter: 0.5
   # pages
   - scope:
